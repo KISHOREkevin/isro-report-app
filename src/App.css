@@ -1,0 +1,8 @@
+body{
+    background-color: #191919;
+    
+    
+}
+.scrollbar-hide::-webkit-scrollbar {
+    display: none;
+}
